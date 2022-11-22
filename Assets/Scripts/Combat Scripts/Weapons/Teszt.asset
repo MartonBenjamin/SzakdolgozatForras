@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfdc23cd1aa23b74e89e49a89b26a792, type: 3}
+  m_Name: Teszt
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 1f4a0aae86ebe3a4abe7d92019f422cb, type: 3}
+  name: Bombesz
+  description: "Bob\xE1cska"
+  prefab: {fileID: 135746, guid: aa64b9ae639024c5097e12b27ac1d84c, type: 3}
+  effect: {fileID: 7569884206938366097, guid: 335b555e54d360d498f752c3ddc9b9a6, type: 3}
+  damage: 5
+  radius: 10
+  explosionForce: 10
+  delay: 5
